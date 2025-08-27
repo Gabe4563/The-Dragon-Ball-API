@@ -1,2 +1,1 @@
-# The-Dragon-Ball-API
-Kamehameha
+# sesi07-consumo-api-rickandmorty
